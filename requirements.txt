@@ -1,0 +1,9 @@
+langchain  
+langchain_community  
+pypdf  
+langchain-huggingface 
+chromadb  
+sentence-transformers  
+langchain-chroma  
+Groq
+langgraph
